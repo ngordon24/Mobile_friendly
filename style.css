@@ -1,45 +1,52 @@
 
-        body {
+        .body-style {
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
             background-color: #0e64b9;
         }
-        header {
+        .header-style {
             background-color: #333;
             color: white;
             text-align: center;
             padding: 1rem;
         }
-        section {
+        .section-style {
             padding: 2rem;
             background-color: white;
             margin: 1rem;
             border-radius: 5px;
             box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
         }
-        h2 {
+        .h2-style {
             color: #333;
         }
-        img {
+        .img-style {
             max-width: 100%;
             height: auto;
             margin: 1rem 0;
         }
-        table {
+        .table-style {
             width: 100%;
             border-collapse: collapse;
         }
-        th, td {
+        .th-style, .td-style {
             padding: 0.5rem;
             text-align: center;
             border-bottom: 1px solid #ccc;
         }
-        footer {
+        .footer-style {
             text-align: center;
             padding: 1rem;
             background-color: #333;
             color: white;
+        }    
+        
+        .list-style {
+            margin: ;
+        }
+
+
         }
         @media (max-width: 768px) {
             .image-container {
